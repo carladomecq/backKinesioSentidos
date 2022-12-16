@@ -8,7 +8,7 @@ Pre-requisitos 📋
 Node (este proyecto fue desarrollado en version 16.17.1)
 React (este proyecto fue desarrollado en version 4.0.4)
 Instalación 🔧
-Debe intalar las siguientes dependencias y si desea cambiar la URL a un entorno local.
+Debe intalar las siguientes dependencias (npm install (nombre de la dependencia) y si desea cambiar la URL a un entorno local.
 
  "cors": "^2.8.5",
  "dotenv": "^16.0.3",
@@ -26,6 +26,7 @@ Estas son las herramientas utilizadas para construir el proyecto
 JavaScript - Lenguaje de programación principal
 React - El framework web usado
 Bootstrap - Estilos
+MongoAtlas - database
 Visual Studio Code - IDE
 
 Autor ✒️
